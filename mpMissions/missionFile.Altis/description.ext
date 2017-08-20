@@ -1,0 +1,8 @@
+
+class CfgFunctions 
+{
+	//--- Miscellanious
+	#include "CfgFunctions.h"
+};
+
+#include "CfgRemoteExec.h"
